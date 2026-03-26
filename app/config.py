@@ -1,0 +1,5 @@
+GEMMA_BASE_URL = "http://localhost:8000/v1"
+MODEL_NAME = "gemma3-4b"
+
+TEMPERATURE = 0.2
+TIMEOUT = 120

@@ -1,0 +1,23 @@
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Виртуальное окружение
+venv/
+.env
+
+# Системные файлы
+.DS_Store
+
+# Логи
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Секреты
+.env
